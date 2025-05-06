@@ -1,6 +1,6 @@
 # 💼 Swapnil Raj - Software Developer Portfolio
 
-Welcome to the official repository of my personal portfolio website. This platform showcases my journey, skills, projects, and experiences as a Full Stack Developer specializing in React Native and the MERN/MEAN stack.
+Welcome to the official repository of my personal portfolio website. This platform showcases my journey, skills, projects, and experiences as a Full Stack Developer specializing in React Native and the MERN stack.
 
 ## 🌐 Live Website
 
@@ -10,7 +10,7 @@ Explore the live version here: [https://swapnilrajportfolio.vercel.app/](https:/
 
 ## 🧑‍💻 About Me
 
-I'm Swapnil Raj, an experienced Full Stack Developer with over 5 years in mobile and web application development. My expertise lies in crafting innovative solutions and delivering seamless user experiences. I'm passionate about building scalable applications and continuously enhancing my skill set.
+I'm Swapnil Raj, a passionate Full Stack Developer currently in my final year of B.Tech in Computer Science at KIIT University. With hands-on experience in web development using the MERN stack, I specialize in building responsive and user-friendly applications. I've worked on a range of projects, from interactive dashboards to real-world service platforms like Homiefix. I'm always eager to learn new technologies and create scalable, impactful solutions that improve everyday user experiences.
 
 *Key Highlights:*
 
