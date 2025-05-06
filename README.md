@@ -1,8 +1,36 @@
-# React + Vite
+# 💼 Swapnil Raj - Software Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official repository of my personal portfolio website. This platform showcases my journey, skills, projects, and experiences as a Full Stack Developer specializing in React Native and the MERN/MEAN stack.
 
-Currently, two official plugins are available:
+## 🌐 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Explore the live version here: [https://swapnilrajportfolio.vercel.app/](https://swapnilrajportfolio.vercel.app/)
+
+---
+
+## 🧑‍💻 About Me
+
+I'm Swapnil Raj, an experienced Full Stack Developer with over 5 years in mobile and web application development. My expertise lies in crafting innovative solutions and delivering seamless user experiences. I'm passionate about building scalable applications and continuously enhancing my skill set.
+
+*Key Highlights:*
+
+- *Name:* Swapnil Raj
+- *Date of Birth:* April 28, 2002
+- *Location:* New Delhi,Delhi, India
+- *Email:* rajswapnil50@gmail.com
+- *Phone:* +91 9351880281
+- *Projects Completed:* 4+
+- *Experience:* Fresher
+
+---
+
+## 🧰 Tech Stack
+
+- *HTML5*  
+- *CSS3*  
+- *JavaScript*  
+- *ReactJS* 
+- *TailwindCSS* 
+- *Git & GitHub*
+
+---
